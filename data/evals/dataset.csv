@@ -1,0 +1,21 @@
+id,question,expected_facts,k
+q1,Quelles sont vos heures d'ouverture du service client ?,lundi au vendredi|9h à 18h|week-end,3
+q2,Sous combien de jours puis-je retourner un produit ?,30 jours|preuve d’achat|non utilisés,3
+q3,En combien de temps la livraison standard est-elle effectuée en France métropolitaine ?,2 à 4 jours ouvrés|France métropolitaine,3
+q4,Quels moyens de paiement acceptez-vous ?,carte bancaire|virement bancaire|PayPal,3
+q5,Les paiements en ligne sont-ils sécurisés ?,paiements sont sécurisés|certifiés PCI-DSS,3
+q6,Quelles sont les conditions pour qu’un produit retourné soit remboursé ?,30 jours|état d’origine|non utilisés|emballage d’origine|preuve d’achat,5
+q7,Quels sont les horaires du support technique ?,support technique|lundi au vendredi|9h à 18h,3
+q8,Que dois-je faire si le suivi indique un colis livré mais que je ne l’ai pas reçu ?,colis livré|voisins|gardien|enquête|5 et 10 jours ouvrés,5
+q9,Comment réinitialiser mon mot de passe ?,Mot de passe oublié ?|lien de réinitialisation|60 minutes,3
+q10,Que se passe-t-il en cas de multiples tentatives de connexion infructueuses ?,multiples tentatives infructueuses|compte peut être temporairement verrouillé|Patientez 15 minutes,3
+q11,Quels sont mes droits concernant mes données personnelles ?,accès|rectification|effacement|opposition|portabilité,5
+q12,Combien de temps conservez-vous mes données de contact utilisées à des fins marketing ?,données de contact|marketing|période d’inactivité de 3 ans,3
+q13,À quels types de prestataires vos données peuvent-elles être transmises ?,prestataires techniques|hébergeur|prestataire de paiement|service de livraison,5
+q14,Que se passe-t-il si vos prestataires sont situés en dehors de l’Union européenne ?,peuvent être situés en dehors de l’Union européenne|clauses contractuelles types,3
+q15,Combien de temps mon historique de commandes est-il conservé ?,historique de commandes|durée de vie de votre compte|au minimum 5 ans,3
+q16,Comment accéder au suivi de ma commande ?,Mes commandes|numéro de suivi|suivi détaillé,3
+q17,Que faire si je ne reçois pas l’e-mail de confirmation ou d’activation de mon compte ?,vérifiez vos spams|saisi la bonne adresse|contactez notre support,3
+q18,Le support est-il disponible en anglais ?,support est disponible en français et en anglais,3
+q19,What are your customer support opening hours?,lundi au vendredi|9h à 18h|week-end,3
+q20,How long does standard delivery usually take?,2 à 4 jours ouvrés,3

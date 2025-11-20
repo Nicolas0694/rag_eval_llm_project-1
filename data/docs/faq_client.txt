@@ -1,0 +1,43 @@
+FAQ CLIENTS
+
+Q1. Comment créer un compte client ?
+Pour créer un compte, cliquez sur “Créer un compte” en haut à droite de la page d’accueil, puis renseignez votre adresse e-mail et choisissez un mot de passe. Vous recevrez un e-mail de confirmation avec un lien d’activation.
+
+Q2. Quels sont vos horaires d’ouverture du service client ?
+Notre service client est disponible du lundi au vendredi, de 9h à 18h, hors jours fériés. Vous pouvez nous joindre par e-mail, via le formulaire de contact ou par chat en ligne.
+
+Q3. Comment suivre ma commande ?
+Une fois votre commande expédiée, un numéro de suivi vous est communiqué par e-mail et dans votre espace client. Cliquez sur “Mes commandes” pour accéder au suivi détaillé.
+
+Q4. Comment modifier ou annuler ma commande ?
+Tant que votre commande n’a pas été préparée, vous pouvez en demander la modification ou l’annulation en contactant le support. Une fois la commande en cours de préparation ou expédiée, il n’est plus possible de la modifier, mais vous pouvez exercer votre droit de rétractation à réception.
+
+Q5. Sous combien de jours puis-je retourner un produit ?
+Vous disposez d’un délai de 30 jours à compter de la réception de votre commande pour retourner un produit. Celui-ci doit être intact, non utilisé et accompagné d’une preuve d’achat.
+
+Q6. Acceptez-vous les retours sans ticket de caisse ?
+Une preuve d’achat est nécessaire pour tout retour. Cela peut être la facture disponible dans votre espace client, l’e-mail de confirmation de commande ou le ticket de caisse si vous avez acheté en boutique.
+
+Q7. Quels moyens de paiement acceptez-vous ?
+Nous acceptons les paiements par carte bancaire (Visa, Mastercard), virement bancaire et PayPal. Certains moyens de paiement peuvent être indisponibles pour des raisons de sécurité ou selon votre pays de résidence.
+
+Q8. Les paiements sont-ils sécurisés ?
+Oui, tous les paiements sont sécurisés et traités via des prestataires certifiés PCI-DSS. Nous ne conservons jamais l’intégralité de vos coordonnées bancaires sur nos serveurs.
+
+Q9. Comment contacter le support technique ?
+Pour toute question technique (problème de connexion, bug d’affichage, difficulté avec une fonctionnalité), vous pouvez ouvrir un ticket depuis votre espace client, rubrique “Support technique”, ou nous écrire à support@acme-digital.fr.
+
+Q10. Proposez-vous un support en anglais ?
+Oui, notre support est disponible en français et en anglais. Lors de la création de votre ticket, vous pouvez indiquer la langue dans laquelle vous souhaitez être contacté.
+
+Q11. Comment réinitialiser mon mot de passe ?
+Cliquez sur “Mot de passe oublié ?” sur la page de connexion, puis saisissez votre adresse e-mail. Vous recevrez un lien vous permettant de réinitialiser votre mot de passe en quelques minutes.
+
+Q12. Que faire si je ne reçois pas l’e-mail de confirmation ?
+Vérifiez d’abord vos spams. Si l’e-mail ne s’y trouve pas, assurez-vous d’avoir saisi la bonne adresse. Si le problème persiste, contactez notre support qui pourra activer manuellement votre compte.
+
+Q13. Puis-je changer l’adresse de livraison après commande ?
+Si votre commande n’a pas encore été préparée, contactez le support au plus vite. Nous ferons le nécessaire pour modifier l’adresse. Si le colis est déjà en transit, il ne sera généralement plus possible de changer l’adresse de livraison.
+
+Q14. Combien de temps conservez vous mon historique de commandes ?
+Votre historique de commandes est conservé pendant toute la durée de vie de votre compte et au minimum 5 ans à compter de la dernière commande, conformément aux obligations légales.

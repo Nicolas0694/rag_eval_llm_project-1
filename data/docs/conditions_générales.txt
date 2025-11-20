@@ -1,0 +1,41 @@
+CONDITIONS GÉNÉRALES DE VENTE
+
+1. Objet
+
+Les présentes conditions générales de vente définissent les droits et obligations de la société ACME DIGITAL et de ses clients dans le cadre de la vente de produits et services en ligne. Toute commande passée sur le site implique l’acceptation pleine et entière des présentes conditions.
+
+2. Commandes
+
+Les commandes sont effectuées exclusivement en ligne via le site internet. Le client est responsable de l’exactitude des informations fournies lors de la commande, notamment l’adresse de livraison et les coordonnées de facturation. ACME DIGITAL se réserve le droit d’annuler ou de refuser toute commande d’un client avec lequel il existerait un litige relatif au paiement d’une commande antérieure.
+
+3. Prix et facturation
+
+Les prix sont indiqués en euros, toutes taxes comprises, sauf mention contraire. Ils ne comprennent pas les frais de livraison, qui sont facturés en supplément et indiqués avant la validation de la commande. La société se réserve le droit de modifier ses prix à tout moment, tout en garantissant au client l’application du tarif en vigueur au moment de la commande. Une facture est émise et disponible dans l’espace client dès que la commande est confirmée.
+
+4. Paiement
+
+Le paiement est exigible immédiatement à la commande. Le client peut régler par carte bancaire, virement ou PayPal. Les paiements sont sécurisés et conformes à la norme PCI-DSS. En cas de refus de paiement par l’établissement bancaire, la commande est automatiquement annulée. ACME DIGITAL ne stocke pas les données complètes de carte bancaire du client.
+
+5. Livraison
+
+La livraison standard prend généralement de 2 à 4 jours ouvrés en France métropolitaine, à compter de la confirmation de la commande. Un suivi de colis est disponible via l’espace client. Les délais de livraison sont donnés à titre indicatif et peuvent varier en fonction du transporteur, des périodes de forte activité ou de circonstances exceptionnelles. En cas de retard de plus de 10 jours ouvrés, le client peut demander l’annulation de la commande et le remboursement des sommes versées.
+
+6. Droit de rétractation et retours
+
+Le client dispose d’un délai de 30 jours à compter de la réception des produits pour exercer son droit de rétractation, sans avoir à motiver sa décision. Les produits doivent être retournés dans leur état d’origine, non utilisés et avec leur emballage d’origine. Une preuve d’achat est exigée pour tout retour. Les produits utilisés, endommagés ou ne correspondant pas à la commande initiale ne sont pas remboursés. Les frais de retour sont à la charge du client, sauf en cas d’erreur imputable à ACME DIGITAL.
+
+7. Garanties
+
+Les produits bénéficient des garanties légales de conformité et des vices cachés. En cas de produit défectueux, le client doit contacter le support client dans les meilleurs délais en fournissant une description précise du problème et, si possible, des photos. Après analyse, ACME DIGITAL pourra proposer un remplacement, une réparation ou un remboursement, selon la nature du défaut.
+
+8. Responsabilité
+
+La société ne saurait être tenue pour responsable des dommages indirects ou immatériels résultant d’une mauvaise utilisation des produits, d’un défaut d’entretien ou d’un usage non conforme aux recommandations. La responsabilité d’ACME DIGITAL est en tout état de cause limitée au montant de la commande litigieuse.
+
+9. Données personnelles
+
+Les données personnelles collectées dans le cadre des commandes sont traitées conformément à la politique de confidentialité disponible sur le site. Le client dispose d’un droit d’accès, de rectification, d’effacement et d’opposition.
+
+10. Droit applicable
+
+Les présentes conditions générales de vente sont soumises au droit français. En cas de litige, une solution amiable sera recherchée avant toute action judiciaire. À défaut d’accord, les tribunaux du ressort du siège social d’ACME DIGITAL seront seuls compétents.

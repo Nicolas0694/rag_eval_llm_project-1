@@ -1,0 +1,33 @@
+GUIDE SUPPORT TECHNIQUE
+
+1. Accès au compte
+
+Si vous ne parvenez plus à accéder à votre compte, vérifiez dans un premier temps que vous utilisez bien l’adresse e-mail associée à votre inscription. En cas d’oubli de mot de passe, utilisez le lien “Mot de passe oublié ?” sur la page de connexion. Un e-mail contenant un lien de réinitialisation vous sera envoyé. Pour des raisons de sécurité, ce lien expire au bout de 60 minutes.
+
+2. Problèmes de connexion
+
+Si vous rencontrez des erreurs de type “Identifiants incorrects”, veillez à désactiver temporairement le verrouillage des majuscules et à saisir votre mot de passe avec soin. En cas de multiples tentatives infructueuses, votre compte peut être temporairement verrouillé. Patientez 15 minutes avant une nouvelle tentative ou contactez le support.
+
+3. Bugs d’affichage
+
+Les problèmes d’affichage (boutons invisibles, pages tronquées, formulaire qui ne se soumet pas) proviennent souvent d’un navigateur obsolète ou de modules tiers (extensions). Nous recommandons l’utilisation d’un navigateur à jour (Chrome, Firefox, Edge ou Safari) et le test en navigation privée pour neutraliser les extensions.
+
+4. Performances et lenteurs
+
+En cas de lenteurs, commencez par vérifier votre connexion internet. Si le site semble lent en permanence, notez la date, l’heure, le type de page (liste de produits, panier, espace client) et contactez le support en fournissant le plus d’informations possibles. Nos équipes peuvent alors corréler vos observations avec les journaux internes et identifier une dégradation de performance.
+
+5. Erreurs lors du paiement
+
+Certaines erreurs de paiement peuvent provenir de restrictions imposées par la banque (plafond atteint, suspicion de fraude, carte expirée). En cas d’erreur, essayez avec un autre moyen de paiement ou contactez votre établissement bancaire. Si le problème persiste, transmettez au support le message d’erreur exact, sans communiquer vos numéros de carte.
+
+6. Problèmes de livraison
+
+Si le suivi indique un colis livré mais que vous ne l’avez pas reçu, vérifiez d’abord auprès de vos voisins ou de votre gardien. En l’absence de solution, ouvrez un ticket avec le numéro de commande, le numéro de suivi et une description de la situation. Nous ouvrirons une enquête auprès du transporteur et vous tiendrons informé. Les enquêtes de livraison prennent généralement entre 5 et 10 jours ouvrés.
+
+7. Sécurité et incidents
+
+Si vous suspectez une activité suspecte sur votre compte (connexion depuis un pays inhabituel, modification non autorisée de vos informations), changez immédiatement votre mot de passe et activez, si disponible, l’authentification à deux facteurs. Signalez tout incident au support en précisant les éléments observés et la date des événements.
+
+8. Contact du support
+
+Le support technique est joignable du lundi au vendredi de 9h à 18h par ticket, e-mail ou chat. Pour accélérer le traitement, joignez des captures d’écran, précisez l’URL de la page concernée et décrivez les étapes qui mènent au problème. Plus votre description est détaillée, plus le diagnostic sera rapide et fiable.
