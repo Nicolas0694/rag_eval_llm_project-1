@@ -40,7 +40,7 @@ rag-eval-llm/
    ├─ rag_llm.py           # RAG + génération via LLM
    ├─ eval_simple.py       # évaluation basée sur expected_facts
    └─ chat_demo.py         # petit test direct de l’API chat
-
+```
 python -m src pip install openai, faiss-cpu, numpy, PyPDF2, python-dotenv
 
 ## 2. Prérequis
